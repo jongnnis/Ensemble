@@ -10,7 +10,7 @@
   3. 부스팅
   4. 스태킹
 
-----
+***
 
 ## 부스팅 (Boosting)
 
@@ -40,7 +40,7 @@
   
 - [Boosting 사용 예제](boosting_stacking_example.ipynb)
 
----
+***
 
 ## 스태킹 (Stacking)
 
